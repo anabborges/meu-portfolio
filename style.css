@@ -239,4 +239,5 @@ body{
     font-family: var(--fonte-textos);
     color: var(--cor-texto);
     font-size: 1.25rem;
+    padding: 10px;
 }
