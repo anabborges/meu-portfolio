@@ -240,28 +240,3 @@ body{
     color: var(--cor-texto);
     font-size: 1.25rem;
 }
-
-@media(max-width: 1230px){
-    .projetos__descricao{
-        display: flex;
-        flex-direction: column;
-    }
-}
-
-@media(max-width: 1055px){
-    .home{
-        display: flex;
-        flex-direction: column;
-        padding: 1%;
-    }
-    
-    .home__conteudo{
-        width: 80%;
-    }
-
-    #about{
-        display: flex;
-        flex-direction: column-reverse;
-        padding: 1%;
-    }
-}
